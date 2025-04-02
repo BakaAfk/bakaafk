@@ -20,6 +20,7 @@
 - ✉️ Gmail: xuanbac01102006@gmail.com
 - 📘 Facebook: [BakaAfk](https://facebook.com/BakaAfk)
 - 💬 Discord: [BakaAfk](https://discord.com/users/1067718540221743134)
+
 ![Discord Presence](https://lanyard.cnrad.dev/api/1067718540221743134?showDisplayName=true&bg=000000&animated=true)
 
 ## <a><img height=32 align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg"/></a> My GitHub Stats
